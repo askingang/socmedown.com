@@ -1,6 +1,9 @@
-# SocMeDown - The Best Social Media Downloader  
+# Socmedown - The Best Social Media Downloader  
 
-[SocMeDown](https://socmedown.com/) lets you download videos, images, and media from multiple social platforms quickly and easily. Whether it's YouTube, Twitter (X), Instagram, Facebook, TikTok, Smule, WeSing, Threads, or Snack Video – we've got you covered.  
+[Socmedown](https://socmedown.com/) lets you download videos, images, and media from multiple social platforms quickly and easily. Whether it's YouTube, Twitter (X), Instagram, Facebook, TikTok, Smule, WeSing, Threads, or Snack Video – we've got you covered.  
+
+[![Preview](https://raw.githubusercontent.com/askingang/socmedown.com/main/assets/Screenshot_20250312_200946_Chrome.jpg)](https://socmedown.com/)
+
 
 ## 🚀 Download Social Media Videos & Posts Instantly  
 Download any post media from the most popular platforms in just a few clicks. No installation required!  
